@@ -1,0 +1,390 @@
+[
+  {
+    "_id": {
+      "$oid": "68856dbbd01f1d8f70e1c085"
+    },
+    "userId": "68856dbbd01f1d8f70e1c083",
+    "departmentSlug": "revenue-department",
+    "role": "nodalOfficer-SDM",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:07:23.603Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:07:23.603Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68856dff426752417a219e8a"
+    },
+    "userId": "68856c83d01f1d8f70e1c080",
+    "departmentSlug": "collector-office",
+    "role": "collector-raipur",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:07:23.603Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:07:23.603Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68856f424aa6f1d5528018ca"
+    },
+    "userId": "68856f424aa6f1d5528018c8",
+    "departmentSlug": "revenue-department",
+    "role": "nodalOfficer-tehsildar",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:13:54.314Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:13:54.314Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "688570124aa6f1d5528018ce"
+    },
+    "userId": "688570114aa6f1d5528018cc",
+    "departmentSlug": "revenue-department",
+    "role": "nodalOfficer-patwari",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:17:22.117Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:17:22.117Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "688570544aa6f1d5528018d2"
+    },
+    "userId": "688570544aa6f1d5528018d0",
+    "departmentSlug": "revenue-department",
+    "role": "nodalOfficer-RI",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:18:28.585Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:18:28.585Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857406b8952ea08cecc720"
+    },
+    "userId": "68857406b8952ea08cecc71e",
+    "departmentSlug": "revenue-department",
+    "role": "SDM",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:34:14.641Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:34:14.641Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "688574af81731985e700955d"
+    },
+    "userId": "688574af81731985e700955b",
+    "departmentSlug": "revenue-department",
+    "role": "SDM",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:37:03.492Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:37:03.492Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6885762427af53c7f1b9d666"
+    },
+    "userId": "6885762427af53c7f1b9d664",
+    "departmentSlug": "revenue-department",
+    "role": "SDM",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:43:16.392Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:43:16.392Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857848990142f527925fc1"
+    },
+    "userId": "68857848990142f527925fbf",
+    "departmentSlug": "revenue-department",
+    "role": "SDM",
+    "metadata": {
+      "kpirefs": [],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T00:52:24.641Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T00:52:24.641Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857cb595171d2e51e55977"
+    },
+    "userId": "68857cb595171d2e51e55975",
+    "departmentSlug": "revenue-department",
+    "role": "RI",
+    "metadata": {
+      "tehsil": "raipur",
+      "ri-circle": ["circle1"],
+      "kpirefs": ["circle1"],
+      "jurisdiction": ["raipur", "circle1"],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:11:17.159Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:11:17.159Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857cca95171d2e51e5597c"
+    },
+    "userId": "68857cca95171d2e51e5597a",
+    "departmentSlug": "revenue-department",
+    "role": "RI",
+    "metadata": {
+      "tehsil": "raipur",
+      "ri-circle": ["circle2", "circle3"],
+      "kpirefs": ["circle2", "circle3"],
+      "jurisdiction": ["raipur", "circle2", "circle3"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:11:38.553Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:11:38.553Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857cdb95171d2e51e55981"
+    },
+    "userId": "68857cdb95171d2e51e5597f",
+    "departmentSlug": "revenue-department",
+    "role": "RI",
+    "metadata": {
+      "tehsil": "dharasiwa",
+      "ri-circle": ["circle1", "circle2"],
+      "kpirefs": ["circle1", "circle2"],
+      "jurisdiction": ["dharasiwa", "circle1", "circle2"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:11:55.503Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:11:55.503Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857ceb95171d2e51e55986"
+    },
+    "userId": "68857ceb95171d2e51e55984",
+    "departmentSlug": "revenue-department",
+    "role": "RI",
+    "metadata": {
+      "tehsil": "dharasiwa",
+      "ri-circle": ["circle3"],
+      "kpirefs": ["circle3"],
+      "jurisdiction": ["dharasiwa", "circle3"],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:12:11.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:12:11.316Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857d3d95171d2e51e5598b"
+    },
+    "userId": "68857d3d95171d2e51e55989",
+    "departmentSlug": "revenue-department",
+    "role": "tehsildar",
+    "metadata": {
+      "courts": ["court1"],
+      "kpirefs": ["court1"],
+      "jurisdiction": ["court1"],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:13:33.561Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:13:33.561Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857d4f95171d2e51e55990"
+    },
+    "userId": "68857d4f95171d2e51e5598e",
+    "departmentSlug": "revenue-department",
+    "role": "tehsildar",
+    "metadata": {
+      "courts": ["court2", "court3"],
+      "kpirefs": ["court2", "court3"],
+      "jurisdiction": ["court2", "court3"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:13:51.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:13:51.218Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857d5d95171d2e51e55995"
+    },
+    "userId": "68857d5d95171d2e51e55993",
+    "departmentSlug": "revenue-department",
+    "role": "tehsildar",
+    "metadata": {
+      "courts": ["court4", "court5"],
+      "kpirefs": ["court4", "court5"],
+      "jurisdiction": ["court4", "court5"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:14:05.165Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:14:05.165Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857e1295171d2e51e5599a"
+    },
+    "userId": "68857e1295171d2e51e55998",
+    "departmentSlug": "revenue-department",
+    "role": "patwari",
+    "metadata": {
+      "tehsil": "raipur",
+      "halka": ["halka1"],
+      "kpirefs": ["halka1"],
+      "jurisdiction": ["raipur", "halka1"],
+      "isMultipleKPIRef": false
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:17:06.238Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:17:06.238Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857e2c95171d2e51e5599f"
+    },
+    "userId": "68857e2b95171d2e51e5599d",
+    "departmentSlug": "revenue-department",
+    "role": "patwari",
+    "metadata": {
+      "tehsil": "raipur",
+      "halka": ["halka2", "halka3"],
+      "kpirefs": ["halka2", "halka3"],
+      "jurisdiction": ["raipur", "halka2", "halka3"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:17:32.052Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:17:32.052Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68857e4095171d2e51e559a4"
+    },
+    "userId": "68857e4095171d2e51e559a2",
+    "departmentSlug": "revenue-department",
+    "role": "patwari",
+    "metadata": {
+      "tehsil": "dharasiwa",
+      "halka": ["halka1", "halka2"],
+      "kpirefs": ["halka1", "halka2"],
+      "jurisdiction": ["dharasiwa", "halka1", "halka2"],
+      "isMultipleKPIRef": true
+    },
+    "createdAt": {
+      "$date": "2025-07-27T01:17:52.680Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-27T01:17:52.680Z"
+    },
+    "__v": 0
+  }
+]

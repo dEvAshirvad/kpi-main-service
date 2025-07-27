@@ -1,0 +1,285 @@
+[{
+  "_id": {
+    "$oid": "68856c83d01f1d8f70e1c080"
+  },
+  "name": "Collector Raipur",
+  "email": "collector@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:02:11.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:02:11.126Z"
+  },
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68856dbbd01f1d8f70e1c083"
+  },
+  "name": "nodalOfficerSDM",
+  "email": "nodalofficersdm@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:07:23.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:07:23.309Z"
+  },
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68856f424aa6f1d5528018c8"
+  },
+  "name": "nodalOfficerTehsildar",
+  "email": "nodalofficertehsildar@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:13:54.216Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:13:54.216Z"
+  },
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "688570114aa6f1d5528018cc"
+  },
+  "name": "nodalOfficerPatwari",
+  "email": "nodalofficerpatwari@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:17:21.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:17:21.957Z"
+  },
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "688570544aa6f1d5528018d0"
+  },
+  "name": "Nodal Officer Revenue Inspector",
+  "email": "nodalofficerri@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:18:28.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:18:28.473Z"
+  },
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68857406b8952ea08cecc71e"
+  },
+  "name": "Rakesh Rajput",
+  "email": "rakeshsdm@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:34:14.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:34:14.522Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "688574af81731985e700955b"
+  },
+  "name": "Ashish Rajput",
+  "email": "ashishsdm@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:37:03.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:37:03.392Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "6885762427af53c7f1b9d664"
+  },
+  "name": "Bahvesh Rajput",
+  "email": "bahveshsdm@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:43:16.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:43:16.286Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857848990142f527925fbf"
+  },
+  "name": "Prateek Rajput",
+  "email": "prateeksdm@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T00:52:24.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T00:52:24.495Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857cb595171d2e51e55975"
+  },
+  "name": "RI 1",
+  "email": "ri1@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:11:17.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:11:17.028Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857cca95171d2e51e5597a"
+  },
+  "name": "RI 2",
+  "email": "ri2@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:11:38.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:11:38.446Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857cdb95171d2e51e5597f"
+  },
+  "name": "RI 3",
+  "email": "ri3@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:11:55.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:11:55.376Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857ceb95171d2e51e55984"
+  },
+  "name": "RI 4",
+  "email": "ri4@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:12:11.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:12:11.208Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857d3d95171d2e51e55989"
+  },
+  "name": "Tehsildar 1",
+  "email": "tehsildar1@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:13:33.418Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:13:33.418Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857d4f95171d2e51e5598e"
+  },
+  "name": "Tehsildar 2",
+  "email": "tehsildar2@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:13:51.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:13:51.106Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857d5d95171d2e51e55993"
+  },
+  "name": "Tehsildar 3",
+  "email": "tehsildar3@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:14:05.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:14:05.028Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857e1295171d2e51e55998"
+  },
+  "name": "Patwari 1",
+  "email": "patwari1@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:17:06.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:17:06.118Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857e2b95171d2e51e5599d"
+  },
+  "name": "Patwari 2",
+  "email": "patwari2@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:17:31.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:17:31.913Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68857e4095171d2e51e559a2"
+  },
+  "name": "Patwari 3",
+  "email": "patwari3@raipur.com",
+  "emailVerified": false,
+  "createdAt": {
+    "$date": "2025-07-27T01:17:52.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T01:17:52.573Z"
+  },
+  "role": "user"
+}]
