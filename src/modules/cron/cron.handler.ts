@@ -71,7 +71,7 @@ export class CronHandler {
         });
       }
 
-      const result = await KpiEntryService.generateMonthlyKpiEntries(
+      const result = await KpiEntryService.generateDefaultKpiEntries(
         templateId,
         monthNum,
         yearNum
@@ -145,10 +145,11 @@ export class CronHandler {
         });
       }
 
-      const result = await KpiEntryService.generateMonthlyReports(
+      const result = await KpiEntryService.generateFinalReports(
         templateId,
         monthNum,
-        yearNum
+        yearNum,
+        'system'
       );
 
       logger.info(
