@@ -10,7 +10,15 @@ import jwksVerifier from '@/middlewares/jwks-verifier';
 import router from '@/modules';
 import sessionDeserializer from '@/middlewares/session-deserializer';
 
-const allowedOrigins = ['http://localhost:3000'];
+const allowedOrigins = [
+  'http://localhost:3000',
+  'http://localhost:3030',
+  'http://localhost:3031',
+  'http://localhost:3032',
+  'http://69.62.77.63:3030',
+  'http://69.62.77.63:3031',
+  'http://69.62.77.63:3032',
+];
 
 export function createRouter(): Express {
   return express();
