@@ -11,13 +11,30 @@ import router from '@/modules';
 import sessionDeserializer from '@/middlewares/session-deserializer';
 
 const allowedOrigins = [
+  'http://localhost:3001',
   'http://localhost:3000',
+  'http://localhost:3002',
+  'http://localhost:3003',
   'http://localhost:3030',
   'http://localhost:3031',
   'http://localhost:3032',
+  'http://localhost:3033',
+  'http://localhost:3034',
+  'http://localhost:3035',
+  'http://localhost:3036',
+  'http://localhost:3037',
+  'http://localhost:3038',
+  'http://localhost:3039',
   'http://69.62.77.63:3030',
   'http://69.62.77.63:3031',
   'http://69.62.77.63:3032',
+  'http://69.62.77.63:3033',
+  'http://69.62.77.63:3034',
+  'http://69.62.77.63:3035',
+  'http://69.62.77.63:3036',
+  'http://69.62.77.63:3037',
+  'http://69.62.77.63:3038',
+  'http://69.62.77.63:3039',
 ];
 
 export function createRouter(): Express {
