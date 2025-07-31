@@ -41,6 +41,7 @@ const allowedOrigins = [
   'https://rahat.rdmp.in',
   'https://filesapi.rdmp.in',
   'https://rahatapi.rdmp.in',
+  'https://urvi.rdmp.in',
 ];
 
 export function createRouter(): Express {
